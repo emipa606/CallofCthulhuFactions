@@ -27,43 +27,61 @@
     <li>jecrell.jecstools</li>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>Update of Jecrells mod
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Jecrells mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=764375772
-
-[img]https://i.imgur.com/GYswkZ7.png[/img]
-
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/CallofCthulhuFactions
 
 - This is an unofficial port
 - This will be removed when/if Jecrell comes back
 - Added support for Combat Extended
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/CallofCthulhuFactions][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-Adds three new factions to RimWorld inspired by the works of HP Lovecraft.
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+[h1]Adds three new factions to RimWorld inspired by the works of HP Lovecraft.[/h1]
 
 
-::::: NOTICE :::::
+[h1]::::: NOTICE :::::
 ::::: THIS MOD REQUIRES JECSTOOLS ::::::
-Download
+Download[/h1]
 http://steamcommunity.com/sharedfiles/filedetails/?id=932008009
 
 While the lingering fear of Cthulhu is most unnerving, you are not alone. Secretive coastal fishing villages and bases of operations for The Agency have begun to appear across the rimworlds. While the villages are not fond of outsiders, should you trade with them, you might acquire large hooks, branding irons, flare guns, or even a harpoon. The Agency come attired in stylish trench coats, fedoras, bowler hats, and wield revolvers to put down potential threats. Have fun!
 
-Also, special thanks to the fashionrimsta team for working with us to help make more outfits.
-Features
-Adds The Agency faction
-Adds Coastal Fishing Town faction
-Adds Lost Platoon faction.
-Adds 16 new pieces of apparel: Police Hat, Police Outfit, Bowler Hat, Fedora, Top hat, Trench Coat, Nurse uniform, Nurse cap, Newsboy cap, Slicker hat, Straw hat, and Raincoat. Special forces combat uniform for MERF, MERF coat, light helmet, heavy helmet, and World War I uniforms and helmets for Lost Platoon members.
-Adds 2 new melee weapons: Hot branding iron (burn damage), Pole hook
-Adds 3 new ranged weapons: Flare gun, Revolver, Hand-held Harpoon Gun
-Adds custom faction base generation.
+Also, special thanks to the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=745193823andsearchtext=]fashionrimsta[/url] team for working with us to help make more outfits.
+[h1]Features[/h1]
+[list]
+[*]Adds The Agency faction
+[*]Adds Coastal Fishing Town faction
+[*]Adds Lost Platoon faction.
+[*]Adds 16 new pieces of apparel: Police Hat, Police Outfit, Bowler Hat, Fedora, Top hat, Trench Coat, Nurse uniform, Nurse cap, Newsboy cap, Slicker hat, Straw hat, and Raincoat. Special forces combat uniform for MERF, MERF coat, light helmet, heavy helmet, and World War I uniforms and helmets for Lost Platoon members.
+[*]Adds 2 new melee weapons: Hot branding iron (burn damage), Pole hook
+[*]Adds 3 new ranged weapons: Flare gun, Revolver, Hand-held Harpoon Gun
+[*]Adds custom faction base generation.
+[/list]
 
-Q and A
-Q) Deep Ones?
-A) In the monster pack</description>
+[h1]QandA[/h1]
+[b]Q)[/b] Deep Ones?
+[b]A)[/b] In the monster pack
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
